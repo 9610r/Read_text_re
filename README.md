@@ -1,5 +1,4 @@
-# Discord Bot
-テキストチャンネルにかかれた文字を読み上げる
+# Read Discord Bot
+テキストチャンネルに投稿されたチャットをボイスチャンネルで読み上げます
 
-ffmpeg,open_jtalkをCドライブ直下に置いて
-disvoice.pyを実行
+ffmpeg,open_jtalkを使用しています
